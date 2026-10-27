@@ -12,4 +12,4 @@ The `sealed` option adds a matching mount on the opposite side of the fan and a 
 
 ## License
 
-Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Remixing is allowed for noncommercial use with attribution; commercial use or sale is not permitted. See [LICENSE](LICENSE).
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Remixing is allowed for noncommercial use with attribution, and adaptations must use the same license; commercial use or sale is not permitted. See [LICENSE](LICENSE).
